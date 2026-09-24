@@ -1,6 +1,138 @@
-# 💫**About Me**:
+# 💫 About Me
+
 <br>
-👋 Hi, I'm Shahin KausharI'm a Computer Science Engineering graduate passionate about building full-stack web applications, backend systems, and AI/ML-powered solutions. I enjoy working across the entire development lifecycle — from designing responsive frontend interfaces and building RESTful APIs to developing machine learning pipelines, integrating AI services, and deploying applications to the cloud.<br><br>My primary interests lie at the intersection of Software Engineering and Artificial Intelligence, where I focus on building practical, scalable, and production-oriented applications.<br><br># 🚀**What I Do**<br><br> 💻 **Full-Stack & Web Development**<br><br>I build modern web applications with a strong focus on clean architecture, API integration, authentication, and scalable backend systems.<br><br>* Frontend: HTML5, CSS3, JavaScript, React.js, responsive UI development<br>* Backend: Node.js, Express.js, Django, FastAPI, RESTful APIs<br>* Authentication: JWT, Role-Based Access Control (RBAC), bcrypt, OTP/2FA<br>* API Development: REST APIs, Webhooks, API integrations, third-party services<br>* Databases: MongoDB, MySQL<br>* Architecture: MVC, modular backend architecture, client-server architecture<br>* Development: CRUD applications, authentication systems, real-time applications, event-driven workflows<br><br> 🤖 **AI / Machine Learning**<br><br>I'm particularly interested in applying AI and ML to real-world software applications.<br><br>* Machine Learning: Scikit-learn, TensorFlow, PyTorch<br>* AI: NLP, Generative AI, LLMs, RAG, LangChain<br>* ML Workflows: Data preprocessing, feature engineering, EDA, model training, evaluation, inference<br>* NLP: Text preprocessing, tokenization, feature extraction, sentiment analysis<br>* LLM Applications: Prompt engineering, conversational AI, AI assistants, intelligent automation<br>* Deployment: Flask-based inference APIs, cloud deployment, containerized ML applications<br><br> ☁️ **Cloud, DevOps & Deployment**<br><br>I also enjoy taking applications from local development to deployable environments.<br><br>* Cloud: AWS — EC2, S3, Elastic Beanstalk<br>* Cloud Deployment: AWS Elastic Beanstalk, Oracle Cloud Infrastructure<br>* DevOps: Docker, CI/CD, AWS CodePipeline<br>* Version Control: Git, GitHub<br>* Containerization: Docker, Docker-based application deployment<br>* Automation: Make.com, n8n, Zapier, webhooks, API-driven workflows<br><br># 🛠️ **Technical Stack**<br><br>**Languages**<br><br>Python | JavaScript | Java | C++ | C<br><br>**Frontend Development**<br><br>HTML5 | CSS3 | JavaScript | React.js | Responsive Design | REST API Integration<br><br>**Backend Development**<br><br>Node.js | Express.js | Django | FastAPI | Flask | REST APIs | Webhooks<br><br>**Authentication & Security**<br><br>JWT | RBAC | bcrypt | OTP | 2FA | Authentication | Authorization<br><br>**Databases**<br><br>MongoDB | MySQL | Database Design | CRUD | Data Modeling<br><br>**AI / Machine Learning**<br><br>Scikit-learn | TensorFlow | PyTorch | NLP | RAG | LLMs | LangChain | Generative AI<br><br**>ML Engineering**<br><br>Data Preprocessing | Feature Engineering | EDA | Model Training | Model Evaluation | Inference Pipelines | Model Deployment<br><br>**Cloud & DevOps**<br><br>AWS | EC2 | S3 | Elastic Beanstalk | CodePipeline | Docker | Oracle Cloud<br><br>**Developer Tools**<br><br>Git | GitHub | Postman | VS Code | API Testing | CI/CD<br><br>#📌 **What I've Built**<br><br>🧠 **End-to-End Machine Learning Pipeline**<br><br>Built a production-oriented machine learning pipeline using Scikit-learn and Flask, including data processing, model training, evaluation, logging, exception handling, and real-time inference. The application was deployed using AWS Elastic Beanstalk and CodePipeline with automated CI/CD.<br><br> 🎟️ Eventora — Full-Stack Event Management Platform<br><br>**Developed a full-stack event booking and management system using React.js, Node.js, Express.js, and MongoDB**. Implemented authentication and authorization using JWT, RBAC, bcrypt, email OTP, and Nodemailer, along with booking validation and overbooking prevention.<br><br>📊 **YouTube Comment Sentiment Analysis**<br><br>Built an NLP pipeline using NLTK and Scikit-learn to preprocess and classify YouTube comments into positive, negative, and neutral sentiments. Experimented with multiple machine learning classifiers and evaluated their performance using accuracy and F1-score.<br><br> 🤖 **AI Automation & Conversational Systems**<br><br>During my internship, worked with REST APIs, webhooks, OCR pipelines, AI chatbots, voice agents, Docker, Vapi, Make.com, n8n, and Zapier to automate business workflows and build AI-powered communication systems.<br><br># 🌱 **Currently Exploring**<br><br>* Generative AI & LLM Applications<br>* RAG Systems and Vector Databases<br>* AI Agents & Agentic Workflows<br>* Advanced Backend Architecture<br>* Microservices & API Design<br>* Cloud-Native Applications<br>* Docker & CI/CD<br>* MLOps & Model Deployment<br>* Real-Time Applications & WebSockets<br>* Scalable Full-Stack Systems<br><br># 🎯 My Development Philosophy<br><br>I believe in learning by building real projects, experimenting with new technologies, and solving practical problems. I'm continuously improving my understanding of software architecture, backend engineering, cloud deployment, and AI systems while working toward building applications that are reliable<br>
+
+👋 Hi, I'm Shahin Kaushar
+
+I'm a Computer Science Engineering graduate passionate about building full-stack web applications, backend systems, and AI/ML-powered solutions. I enjoy working across the entire development lifecycle — from designing responsive frontend interfaces and building RESTful APIs to developing machine learning pipelines, integrating AI services, and deploying applications to the cloud.
+
+<br>
+
+My primary interests lie at the intersection of Software Engineering and Artificial Intelligence, where I focus on building practical, scalable, and production-oriented applications.
+
+<br>
+
+# 🚀 What I Do
+
+<br>
+
+💻 Full-Stack & Web Development
+
+I build modern web applications with a strong focus on clean architecture, API integration, authentication, and scalable backend systems.
+
+* Frontend: HTML5, CSS3, JavaScript, React.js, Responsive UI Development
+* Backend: Node.js, Express.js, Django, FastAPI, RESTful APIs
+* Authentication: JWT, Role-Based Access Control (RBAC), bcrypt, OTP/2FA
+* API Development: REST APIs, Webhooks, API Integrations, Third-Party Services
+* Databases: MongoDB, MySQL
+* Architecture: MVC, Modular Backend Architecture, Client-Server Architecture
+* Development: CRUD Applications, Authentication Systems, Real-Time Applications, Event-Driven Workflows
+
+<br>
+
+🤖 AI / Machine Learning
+
+I'm particularly interested in applying AI and ML to real-world software applications.
+
+* Machine Learning: Scikit-learn, TensorFlow, PyTorch
+* AI: NLP, Generative AI, LLMs, RAG, LangChain
+* ML Workflows: Data Preprocessing, Feature Engineering, EDA, Model Training, Evaluation, Inference
+* NLP: Text Preprocessing, Tokenization, Feature Extraction, Sentiment Analysis
+* LLM Applications: Prompt Engineering, Conversational AI, AI Assistants, Intelligent Automation
+* Deployment: Flask-Based Inference APIs, Cloud Deployment, Containerized ML Applications
+
+<br>
+
+☁️ Cloud, DevOps & Deployment
+
+I also enjoy taking applications from local development to deployable environments.
+
+* Cloud: AWS — EC2, S3, Elastic Beanstalk
+* Cloud Deployment: AWS Elastic Beanstalk, Oracle Cloud Infrastructure
+* DevOps: Docker, CI/CD, AWS CodePipeline
+* Version Control: Git, GitHub
+* Containerization: Docker, Docker-Based Application Deployment
+* Automation: Make.com, n8n, Zapier, Webhooks, API-Driven Workflows
+
+<br>
+
+# 🛠️ Technical Stack
+
+<br>
+
+Languages
+
+Python | JavaScript | Java | C++ | C
+
+<br>
+
+Frontend Development
+
+HTML5 | CSS3 | JavaScript | React.js | Responsive Design | REST API Integration
+
+<br>
+
+Backend Development
+
+Node.js | Express.js | Django | FastAPI | Flask | REST APIs | Webhooks
+
+<br>
+
+Authentication & Security
+
+JWT | RBAC | bcrypt | OTP | 2FA | Authentication | Authorization
+
+<br>
+
+Databases
+
+MongoDB | MySQL | Database Design | CRUD | Data Modeling
+
+<br>
+
+AI / Machine Learning
+
+Scikit-learn | TensorFlow | PyTorch | NLP | RAG | LLMs | LangChain | Generative AI
+
+<br>
+
+ML Engineering
+
+Data Preprocessing | Feature Engineering | EDA | Model Training | Model Evaluation | Inference Pipelines | Model Deployment
+
+<br>
+
+Cloud & DevOps
+
+AWS | EC2 | S3 | Elastic Beanstalk | CodePipeline | Docker | Oracle Cloud
+
+<br>
+
+Developer Tools
+
+Git | GitHub | Postman | VS Code | API Testing | CI/CD
+
+<br>
+
+# 📌 What I've Built
+
+<br>
+
+🧠 End-to-End Machine Learning Pipeline
+
+Built a production-oriented machine learning pipeline using Scikit-learn and Flask, including data processing, model training, evaluation, logging, exception handling, and real-time inference. The application was deployed using AWS Elastic Beanstalk and CodePipeline with automated CI/CD.
+
+<br>
+
+🎟️ Eventora — Full-Stack Event Management Platform
+
+Developed a full-stack event booking and management system using React.js, Node.js, Express.js, and MongoDB. Implemented authentication and authorization using JWT, RBAC, bcrypt, email OTP, and Nodemailer, along with booking validation and overbooking prevention.
+
+<br>
+
+📊 YouTube Comment Sentiment Analysis
+
+Built an NLP pipeline using NLTK and Scikit-learn to preprocess and classify YouTube comments into positive, negative, and neutral sentiments. Experimented with multiple machine learning classifiers and evaluated their performance us
 
 
  🌐 **Socials**:<br>
